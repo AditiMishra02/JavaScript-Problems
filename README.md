@@ -10,6 +10,10 @@ This repository contains a collection of JavaScript code examples covering vario
 3. [Basic Weather App using Fetch API](#basic-weather-app-using-fetch-api)
 4. [Simple Quiz Game](#simple-quiz-game)
 5. [Basic Timer using setTimeout](#basic-timer-using-settimeout)
+6. [Simple HTTP Server using Node.js](#simple-http-server-using-nodejs)
+7. [Basic Promise Example](#basic-promise-example)
+8. [Simple File System Operations using fs Module](#simple-file-system-operations-using-fs-module)
+9. [Simple EventEmitter Example](#simple-eventemitter-example)
 
 ## Simple Calculator
 
@@ -40,4 +44,29 @@ Description: This JavaScript file implements a basic quiz game where the user is
 **File:** [timer.js](timer.js)
 
 Description: This JavaScript file implements a basic timer using the setTimeout function to display a countdown.
+
+## Simple HTTP Server using Node.js
+
+**File:** [http_server.js](http_server.js)
+
+Description: This JavaScript file demonstrates how to create a simple HTTP server using Node.js, which responds with "Hello, World!" to all requests.
+
+## Basic Promise Example
+
+**File:** [promise_example.js](promise_example.js)
+
+Description: This JavaScript file demonstrates how to use promises to handle asynchronous operations. It defines an async function that resolves after a delay and logs the result.
+
+## Simple File System Operations using fs Module
+
+**File:** [file_system.js](file_system.js)
+
+Description: This JavaScript file demonstrates basic file system operations such as reading from and writing to a file using the fs module in Node.js.
+
+## Simple EventEmitter Example
+
+**File:** [event_emitter.js](event_emitter.js)
+
+Description: This JavaScript file demonstrates how to create and use a simple EventEmitter in Node.js to handle custom events.
+
 
